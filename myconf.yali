@@ -1,0 +1,7 @@
+# here you have to configure the lights and associated 
+# LCN modules + outputs
+#
+# Format is 
+# Module Output NameOfLight 
+L 11 1 "Esszimmer"
+L 11 2 "Wohnzimmer"
